@@ -1,0 +1,10 @@
+*
+!*v5.c
+!*.h
+!*.sh
+!*.so
+!.gitignore
+!debug/
+!test/
+
+
